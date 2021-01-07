@@ -15,7 +15,7 @@
 #### 文档
 0. [TS文档](https://www.tslang.cn/docs/handbook/basic-types.html)
 1. [vant-ui文档](https://youzan.github.io/vant/#/zh-CN/quickstart)   
-1. a [element-ui](https://element.eleme.cn/#/zh-CN/component/layout)
+1. [element-ui](https://element.eleme.cn/#/zh-CN/component/layout)
 2. [vue文档](https://cn.vuejs.org/)
 3. [vuex文档](https://vuex.vuejs.org/zh/)
 4. [axios文档](http://www.axios-js.com/zh-cn/docs/)
@@ -40,6 +40,7 @@
 21. [mongodb文档](https://www.mongodb.org.cn/)
 20. [Ts](tslang.cn/docs/handbook/typescript-in-5-minutes.html)
 20. [vue拖拽](http://www.itxst.com/vue-draggable/imj6nvze.html)
+21. [node-fetch文档](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
 
 #### 其他工具
 1. [PDF转word](https://app.xunjiepdf.com/)
@@ -53,6 +54,7 @@
 #### 学习
 1. [单元测试](https://segmentfault.com/a/1190000013470485)
 
-
+#### mac
+1. [mac外接显示器设置](https://zhuanlan.zhihu.com/p/161631562)
  
 
