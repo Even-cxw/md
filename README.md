@@ -1,7 +1,8 @@
-1. [文档连接](https://github.com/Even8/md/tree/main/%E6%96%87%E6%A1%A3%E8%BF%9E%E6%8E%A5)
-2. [Vue笔记](https://github.com/Even8/md/tree/main/Vue%E7%AC%94%E8%AE%B0)
-3. [随记](https://github.com/Even8/md/tree/main/%E9%9A%8F%E8%AE%B0)
-4. [任务](https://github.com/Even8/md/tree/main/%E4%BB%BB%E5%8A%A1)
++ [文档连接](https://github.com/Even8/md/tree/main/%E6%96%87%E6%A1%A3%E8%BF%9E%E6%8E%A5)
++ [Vue笔记](https://github.com/Even8/md/tree/main/Vue%E7%AC%94%E8%AE%B0)
++ [随记](https://github.com/Even8/md/tree/main/%E9%9A%8F%E8%AE%B0)
++ [任务](https://github.com/Even8/md/tree/main/%E4%BB%BB%E5%8A%A1)
+===============
 #### tools工具
 1. eruda.js
 2. jquery-1.9.0.main.js
@@ -9,11 +10,8 @@
 4. mocha.js
 5. chai.js
 
-#### 用法
-
-子钦加油系统
 ===============
- 
+# README.md用法
 ## 安装环境
  
 >+ thinkphp版本：5.0.15
@@ -57,5 +55,8 @@
 ### 作者：子钦加油
 1.0版本属于初级版本，只做了基础功能，只能安装“服务器”环境。欢迎与“子钦加油”交流
  
-<br>
-Thikphp5高级群：xxxxxxx
+*强调* 或者 _强调_（斜体）
+**强调** 或者 __强调__（粗体）
+***强调*** 或者 ___强调___（粗斜体）
+
+`printf("hello world!\n");`
