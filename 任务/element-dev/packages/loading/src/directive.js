@@ -3,6 +3,7 @@ import Loading from './loading.vue';
 import { addClass, removeClass, getStyle } from 'element-ui/src/utils/dom';
 import { PopupManager } from 'element-ui/src/utils/popup';
 import afterLeave from 'element-ui/src/utils/after-leave';
+// 组件构造器；
 const Mask = Vue.extend(Loading);
 
 const loadingDirective = {};
@@ -13,7 +14,7 @@ loadingDirective.install = Vue => {
       Vue.nextTick(() => {
         if (binding.modifiers.fullscreen) {
           el.originalPosition = getStyle(document.body, 'position');
-          el.originalOverflow = getStyle(document.body, 'overflow');
+          el.originalOverflow = getStyle(document.body, 'overflow'); 
           el.maskStyle.zIndex = PopupManager.nextZIndex();
 
           addClass(el.mask, 'is-fullscreen');

@@ -22,7 +22,7 @@ LoadingConstructor.prototype.originalOverflow = '';
 
 LoadingConstructor.prototype.close = function() {
   if (this.fullscreen) {
-    fullscreenLoading = undefined;
+    fullscreenLoading = undefined;                                            
   }
   afterLeave(this, _ => {
     const target = this.fullscreen || this.body

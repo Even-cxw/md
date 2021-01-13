@@ -16,7 +16,7 @@ var vm = new Vue({
 				className: 'city_cities'
 			}
 		],
-		cityVisible: false, //城市选择器弹出框是否可见
+		cityVisible: false, //城市选择器弹出框是否可见 
 		city_temp: '', // 暂作缓存，取消按钮不赋值给city_name
 		city_name: '中国-台湾', //城市三级地址 省-市-县
 	},

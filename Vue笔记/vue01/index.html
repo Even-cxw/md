@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>vue01</title>
+</head>
+<body>
+  <!-- extend -->
+  <div id="extend">
+    <div>
+      我是contnet
+    </div>
+  </div>
+  <!-- new Vue -->
+  <div id="app01"> 
+    <div class="content" v-if="name">
+      {{name}}
+    </div>
+  </div>
+  <!-- new Vue -->
+  <div id="app02"> 
+    <div class="content" v-if="name">
+      {{name}}
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="./js/vue.js"></script>
+</body>
+</html>

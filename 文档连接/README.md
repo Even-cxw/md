@@ -50,7 +50,7 @@
 5. [修改host网址](https://zhuanlan.zhihu.com/p/107334179)
 6. [npm环境变量配置](https://www.cnblogs.com/coder-lzh/p/9232192.html)
 7. [bootcdn网址](https://www.bootcdn.cn/)
-
+8. [滚动元素图解](https://www.jianshu.com/p/d267456ebc0d)
 #### 学习
 1. [单元测试](https://segmentfault.com/a/1190000013470485)
 
