@@ -31,3 +31,19 @@
 + vm.$destroy() :完全销毁一个实例。清理它与其它实例的连接，解绑它的全部指令及事件监听器。**不会清除dom**
 + parentNode : Element方法获取父元素。
 + removeChild() : Element方法删除元素。
++ document.body.style : 获取的是内联样式，
++ document.body.currentStyle : 获取的所有样式 **IE浏览器**
++ window.getComputedStyle(element, '')[styleName] **谷歌浏览器**
+  > window == document.defaultView : **所有CSS属性的值**
+
+### 2021/01/14
++ el.getAttribute('key') ： 获取元素属性值
+
+### 2021/01/22
++ el.getBoundingClientRect(): 取某个元素相对于视窗的位置集合
++ wave : 波浪
++ MouseEvent: 交互时发生的事件 (mouse:老鼠)
+
+### 2021/01/25
++ css属性： pointer-event: none =>dom02
++ mousedown, mousemove, mouseup : 鼠标事件，

@@ -66,6 +66,7 @@ const addStyle = (options, parent, instance) => {
 
 const Loading = (options = {}) => {
   if (Vue.prototype.$isServer) return;
+  // 将三个对象的属性 ，合并成一个对象;
   options = merge({}, defaults, options);
   if (typeof options.target === 'string') {
     options.target = document.querySelector(options.target);
