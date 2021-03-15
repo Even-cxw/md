@@ -1,5 +1,5 @@
 ### 2021/01/06
-+ document.scrollingElement.scrollTop = 0;
++ document.scrollingElement.scrollTop = 0; 
 + window.scrollTo(0,0);
 
 + document.scrollingElement.scrollTop = 0;
