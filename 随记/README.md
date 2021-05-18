@@ -47,3 +47,7 @@
 ### 2021/01/25
 + css属性： pointer-event: none =>dom02
 + mousedown, mousemove, mouseup : 鼠标事件，
+
+### 2021/03/29
++ mouseenner, mouseleave : 鼠标事件，
++ touchstart,touchmove,touchend : touch事件，

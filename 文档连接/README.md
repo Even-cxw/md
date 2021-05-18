@@ -43,6 +43,8 @@
 21. [node-fetch文档](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
 22. [mui](https://dev.dcloud.net.cn/mui/)
 23. [koa的学习教程](https://chenshenhai.github.io/koa2-note/note/static/server.html)
+24. [typescript操作手册](https://github.com/zhongsp/TypeScript)
+25. [jsZip文档](https://stuk.github.io/jszip/documentation/examples.html)
 #### 其他工具
 1. [PDF转word](https://app.xunjiepdf.com/)
 2. [easy-mock模拟数据工具](https://easy-mock.com/login)
@@ -56,8 +58,13 @@
 
 #### 学习
 1. [单元测试](https://segmentfault.com/a/1190000013470485)
-
+2. [前端地图线路图](https://www.mscto.com/html5/30073)
+3. [乾坤-微前端-git项目](https://github.com/umijs/qiankun)
+4. [微前端-文档](https://qiankun.umijs.org/zh/cookbook)
+5. [vite-文档](https://vite.wiki/zh/introduction/)
 #### mac
 1. [mac外接显示器设置](https://zhuanlan.zhihu.com/p/161631562)
  
 
+#### clientX,pageX,offsetX 图解
+https://www.cnblogs.com/skylar/p/4121508.html
