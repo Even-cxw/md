@@ -45,6 +45,9 @@
 23. [koa的学习教程](https://chenshenhai.github.io/koa2-note/note/static/server.html)
 24. [typescript操作手册](https://github.com/zhongsp/TypeScript)
 25. [jsZip文档](https://stuk.github.io/jszip/documentation/examples.html)
+26. [高德地图入手指南](https://lbs.amap.com/api/amap-mobile/gettingstarted)
+27. [nginx中文文档](https://www.nginx.cn/doc/index.html)
+28. [ant-Desing](https://ant.design/components/rate-cn/)
 #### 其他工具
 1. [PDF转word](https://app.xunjiepdf.com/)
 2. [easy-mock模拟数据工具](https://easy-mock.com/login)
@@ -66,5 +69,13 @@
 1. [mac外接显示器设置](https://zhuanlan.zhihu.com/p/161631562)
  
 
+#### bug解决思路
+1. [返回不刷新问题](https://juejin.cn/post/6844903818191175687)
 #### clientX,pageX,offsetX 图解
 https://www.cnblogs.com/skylar/p/4121508.html
+
+```
+微信环境打开app-(SDK): https://www.cnblogs.com/willian/p/13293030.html;
+
+
+```
