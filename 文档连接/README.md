@@ -4,7 +4,7 @@
 #### 外联博库
  1. [SVN使用手册](https://blog.csdn.net/sinat_37812785/article/details/80243207)
  2. [阮一峰flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
- 3. [字符串的方法](https://www.cnblogs.com/zhangxin2540/p/7054835.html)     
+ 3. [字符串的方法](https://www.cnblogs.com/zhangxin2540/p/7054835.html)
  5. [正则表达式菜鸟文档](https://www.runoob.com/regexp/regexp-syntax.html)
     [正则表达测试工具网址](https://c.runoob.com/front-end/854)
     [正则表达测试站](https://regexper.com/)
@@ -18,6 +18,7 @@
 1. [element-ui](https://element.eleme.cn/#/zh-CN/component/layout)
 2. [vue文档](https://cn.vuejs.org/)
 3. [vuex文档](https://vuex.vuejs.org/zh/)
+3. [vue Cli](https://cli.vuejs.org/zh/guide/webpack.html)
 4. [axios文档](http://www.axios-js.com/zh-cn/docs/)
     [axios博客](https://segmentfault.com/a/1190000008470355)
     [fly文档](https://wendux.github.io/dist/#/doc/flyio/engine)
@@ -48,11 +49,16 @@
 26. [高德地图入手指南](https://lbs.amap.com/api/amap-mobile/gettingstarted)
 27. [nginx中文文档](https://www.nginx.cn/doc/index.html)
 28. [ant-Desing](https://ant.design/components/rate-cn/)
+29. [lay-ui文档](https://www.layui.com/doc/)
+30. [nginx-缓存设置](https://www.layui.com/)
+31. [vue-element-admin-在线观看](https://panjiachen.github.io/vue-element-admin/#/dashboard)
+32. [A-fram VR体验文档](https://www.techbrood.com/aframe)
+33. [桌面端electron](http://www.electronjs.org/docs/tutorial/macos-dock)
+34. [阿里巴巴失量图](https://www.iconfont.cn/search/indextag=)
 #### 其他工具
 1. [PDF转word](https://app.xunjiepdf.com/)
 2. [easy-mock模拟数据工具](https://easy-mock.com/login)
 3. [vorlonjs混合开发调试工具](http://www.vorlonjs.com/)
-4. [eruda.js]()
 5. [修改host网址](https://zhuanlan.zhihu.com/p/107334179)
 6. [npm环境变量配置](https://www.cnblogs.com/coder-lzh/p/9232192.html)
 7. [bootcdn网址](https://www.bootcdn.cn/)
@@ -65,9 +71,15 @@
 3. [乾坤-微前端-git项目](https://github.com/umijs/qiankun)
 4. [微前端-文档](https://qiankun.umijs.org/zh/cookbook)
 5. [vite-文档](https://vite.wiki/zh/introduction/)
+6. [移动端字体放大问题](https://juejin.cn/post/6844903507061932040)
+7. [日历开发文档](https://github.com/Hzy0913/mpvue-calendar)
+8. [简单日历开发](https://github.com/zwhGithub/vue-calendar)
 #### mac
 1. [mac外接显示器设置](https://zhuanlan.zhihu.com/p/161631562)
  
+#### 软件下载
+1. [罗技鼠标软件下载](https://www.logitech.com.cn/zh-cn/promo/ergosetup/logitech-options.html)
+
 
 #### bug解决思路
 1. [返回不刷新问题](https://juejin.cn/post/6844903818191175687)
@@ -76,6 +88,5 @@ https://www.cnblogs.com/skylar/p/4121508.html
 
 ```
 微信环境打开app-(SDK): https://www.cnblogs.com/willian/p/13293030.html;
-
-
 ```
+
