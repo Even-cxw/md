@@ -87,6 +87,7 @@
 - [乾坤-微前端-git项目](https://github.com/umijs/qiankun)
 - [移动端字体放大问题](https://juejin.cn/post/6844903507061932040)
 - [clientX,pageX,offsetX 图解](https://www.cnblogs.com/skylar/p/4121508.html)
+- [节流防抖](https://www.jianshu.com/p/566c66aafa22)
 
 #### 软件下载
 - [罗技鼠标软件下载](https://www.logitech.com.cn/zh-cn/promo/ergosetup/logitech-options.html)
