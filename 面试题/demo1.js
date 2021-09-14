@@ -3,7 +3,7 @@
  * @params {String, data}
  * 写个函数名dilution('a.b.c.name'),将'Even'返回
  */
- let data = {
+ var data = {
   a: {
     b: {
       c:{
@@ -13,10 +13,18 @@
   }
 }
 
-dilution('a.b.c.name',data)
-function dilution(str, data) {
+let aaaa = dilution('a.b.c.name',data);
+console.log(aaaa)
 
+function dilution(str, data) {
+  var arr = str.split('.')
+  var obj=data;
+  arr.forEach(function(val,index){
+    obj = obj[val] 
+  })
+  return obj
 }
+
 
 
 

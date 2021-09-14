@@ -17,6 +17,7 @@ dilution('a.b.c.name',data)
 function dilution(str, data) {
   var obj = data;
   let arr = str.split('.')
+  // [a,b,c,name]
   arr.forEach(item => {
     obj = dilution1(item, obj)
   })

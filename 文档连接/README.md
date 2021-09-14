@@ -8,7 +8,6 @@
 - [moment时间文档](http://momentjs.cn/docs/#/manipulating/)
 - [MDN手册](https://developer.mozilla.org/zh-CN/)
 - [lodash.js操作文档](https://www.lodashjs.com/)
-- [npm文档](https://docs.npmjs.com/)
 - [高德地图文档](https://lbs.amap.com/api/javascript-api/reference/map/)
 - [postcss文档](https://postcss.org/)
 - [mongodb文档](https://www.mongodb.org.cn/)
@@ -25,7 +24,6 @@
 - [正则表达测-文档](https://regexper.com/)
 - [微前端-文档](https://qiankun.umijs.org/zh/cookbook)
 - [bootcdn网址](https://www.bootcdn.cn/)
-
 #### 微信文档
 - [微信公众号订阅](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/Wechat_Open_Tag.html#23)
 - [微信jssdk开发文档](http://caibaojian.com/wxwiki/0030551f015f01ecaa56d20b88ee3c6cb32503bf.html)
@@ -36,6 +34,7 @@
 - [vue拖拽](http://www.itxst.com/vue-draggable/imj6nvze.html)
 - [vue-cli配置文档](https://cli.vuejs.org/zh/config/) 
 - [vue文档](https://cn.vuejs.org/)
+- [vue3文档](https://vue3js.cn/docs/zh/guide/migration/introduction.html)
 - [vuex文档](https://vuex.vuejs.org/zh/)
 - [vue Cli](https://cli.vuejs.org/zh/guide/webpack.html)
 
@@ -88,7 +87,8 @@
 - [移动端字体放大问题](https://juejin.cn/post/6844903507061932040)
 - [clientX,pageX,offsetX 图解](https://www.cnblogs.com/skylar/p/4121508.html)
 - [节流防抖](https://www.jianshu.com/p/566c66aafa22)
-
+- [慕课网](https://www.imooc.com/)
+- [51CTO企业版](https://b.51cto.com/index)
 #### 软件下载
 - [罗技鼠标软件下载](https://www.logitech.com.cn/zh-cn/promo/ergosetup/logitech-options.html)
 
