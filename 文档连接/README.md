@@ -1,6 +1,7 @@
 
 #### 官方文档
 - [TS文档](https://www.tslang.cn/docs/handbook/basic-types.html)
+- [TS英文版文档](https://www.typescriptlang.org/docs/)
 - [axios文档](http://www.axios-js.com/zh-cn/docs/)
 - [fly文档](https://wendux.github.io/dist/#/doc/flyio/engine)
 - [postcss文档](https://postcss.org/)
@@ -11,7 +12,6 @@
 - [高德地图文档](https://lbs.amap.com/api/javascript-api/reference/map/)
 - [postcss文档](https://postcss.org/)
 - [mongodb文档](https://www.mongodb.org.cn/)
-- [Ts文档](tslang.cn/docs/handbook/typescript-in-5-minutes.html)
 - [node-fetch文档](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
 - [koa文档](https://koa.bootcss.com/#introduction)
 - [typescript文档](https://github.com/zhongsp/TypeScript)
@@ -90,6 +90,7 @@
 - [节流防抖](https://www.jianshu.com/p/566c66aafa22)
 - [慕课网](https://www.imooc.com/)
 - [51CTO企业版](https://b.51cto.com/index)
+- [手写vue-MVVM](https://github.com/DMQ/mvvm)
 #### 软件下载
 - [罗技鼠标软件下载](https://www.logitech.com.cn/zh-cn/promo/ergosetup/logitech-options.html)
 
