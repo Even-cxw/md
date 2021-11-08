@@ -25,6 +25,7 @@
 - [微前端-文档](https://qiankun.umijs.org/zh/cookbook)
 - [bootcdn网址](https://www.bootcdn.cn/)
 - [webpack文档](https://webpack.docschina.org/)
+- [node](http://nodejs.cn/api/)
 #### 微信文档
 - [微信公众号订阅](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/Wechat_Open_Tag.html#23)
 - [微信jssdk开发文档](http://caibaojian.com/wxwiki/0030551f015f01ecaa56d20b88ee3c6cb32503bf.html)
