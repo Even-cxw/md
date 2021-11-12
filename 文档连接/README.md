@@ -85,6 +85,12 @@
 - [npm环境变量配置](https://www.cnblogs.com/coder-lzh/p/9232192.html)
 - [Bulletproof background images](https://backgrounds.cm/)
 - [mac外接显示器设置](https://zhuanlan.zhihu.com/p/161631562)
+- [vscode安装加速](https://blog.csdn.net/m0_55548148/article/details/115587339)
+```
+外网地址：https://az764295.vo.msecnd.net/stable/3a6960b964327f0e3882ce18fcebd07ed191b316/VSCode-darwin-universal.zip
+内网地址：https://vscode.cdn.azure.cn/stable/3a6960b964327f0e3882ce18fcebd07ed191b316/VSCode-darwin-universal.zip
+替换连接：vscode.cdn.azure.cn
+```
 
 #### 学习
 - [单元测试](https://segmentfault.com/a/1190000013470485)
