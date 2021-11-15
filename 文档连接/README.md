@@ -32,7 +32,6 @@
 - [个人博客]（https://even-cxw.github.io/）
 - [nexT主题](https://theme-next.iissnan.com/getting-started.html)
 
-https://itmoox.github.io/
 
 #### 微信文档
 - [微信公众号订阅](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/Wechat_Open_Tag.html#23)
