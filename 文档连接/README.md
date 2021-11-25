@@ -1,3 +1,10 @@
+---
+title: 文档
+date: 2021-11-10 16:47:17
+updated: 2021-11-15 16:47:18
+categories: 工具
+---
+
 
 #### 官方文档
 - [TS文档](https://www.tslang.cn/docs/handbook/basic-types.html)
@@ -15,7 +22,6 @@
 - [node-fetch文档](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API/Using_Fetch)
 - [koa文档](https://koa.bootcss.com/#introduction)
 - [typescript文档](https://github.com/zhongsp/TypeScript)
-- [jsZip文档](https://stuk.github.io/jszip/documentation/examples.html)
 - [高德地图文档](https://lbs.amap.com/api/amap-mobile/gettingstarted)
 - [nginx文档](https://www.nginx.cn/doc/index.html)
 - [A-fram VR体验文档](https://www.techbrood.com/aframe)
@@ -28,10 +34,14 @@
 - [node](http://nodejs.cn/api/)
 - [react](https://reactjs.org/)
 - [schema](https://schema.org.cn/)
-- [hexo博客框架](https://hexo.io/zh-cn/docs/)
-- [个人博客]（https://even-cxw.github.io/）
+- [个人博客](https://even-cxw.github.io/)
 - [nexT主题](https://theme-next.iissnan.com/getting-started.html)
-
+- [nexT操作文档](https://hexo.io/zh-cn/docs/)
+- [nexT操作文档-个人01](https://www.jianshu.com/p/f054333ac9e6)
+- [nexT操作文档-个人02](https://neveryu.github.io/2016/09/30/hexo-next-two/)
+- [jszip-utils](http://stuk.github.io/jszip-utils/) 
+- [jsZip文档](https://stuk.github.io/jszip/documentation/examples.html)
+- [fontawesome图标库-英文版](https://fontawesome.com/)
 
 #### 微信文档
 - [微信公众号订阅](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/Wechat_Open_Tag.html#23)
@@ -89,6 +99,8 @@
 - [Bulletproof background images](https://backgrounds.cm/)
 - [mac外接显示器设置](https://zhuanlan.zhihu.com/p/161631562)
 - [vscode安装加速](https://blog.csdn.net/m0_55548148/article/details/115587339)
+- [生成精灵图JSON网址](https://www.leshylabs.com/apps/sstool/)
+
 ```
 外网地址：https://az764295.vo.msecnd.net/stable/3a6960b964327f0e3882ce18fcebd07ed191b316/VSCode-darwin-universal.zip
 内网地址：https://vscode.cdn.azure.cn/stable/3a6960b964327f0e3882ce18fcebd07ed191b316/VSCode-darwin-universal.zip
@@ -105,11 +117,9 @@
 - [慕课网](https://www.imooc.com/)
 - [51CTO企业版](https://b.51cto.com/index)
 - [手写vue-MVVM](https://github.com/DMQ/mvvm)
+- [计算机基础](http://www.weixueyuan.net/a/9.html)
 #### 软件下载
 - [罗技鼠标软件下载](https://www.logitech.com.cn/zh-cn/promo/ergosetup/logitech-options.html)
 
 #### bug文档
 - [返回不刷新问题](https://juejin.cn/post/6844903818191175687)
-
-
-
