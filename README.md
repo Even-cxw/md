@@ -11,7 +11,7 @@
 5. chai.js
 
 ===============
-# README.md用法
+# README.md用法 1
 ## 安装环境
  
 >+ thinkphp版本：5.0.15
